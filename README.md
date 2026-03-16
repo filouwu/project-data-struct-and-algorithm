@@ -4,51 +4,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Movhex - Optimal Route Computation</title>
-
-<style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    margin:40px;
-    line-height:1.6;
-    background:#fafafa;
-}
-
-h1,h2,h3{
-    color:#2c3e50;
-}
-
-code{
-    background:#eeeeee;
-    padding:4px 6px;
-    border-radius:4px;
-}
-
-pre{
-    background:#eeeeee;
-    padding:12px;
-    border-radius:6px;
-    overflow-x:auto;
-}
-
-.section{
-    margin-bottom:40px;
-}
-
-table{
-    border-collapse:collapse;
-    width:60%;
-}
-
-table, th, td{
-    border:1px solid #ccc;
-}
-
-th, td{
-    padding:10px;
-    text-align:left;
-}
-
-</style>
 </head>
 
 <body>
